@@ -1,2 +1,2 @@
 # Python-Training
-It is  context of having basic python programs and all.
+It is having all basic programs and all topics.
