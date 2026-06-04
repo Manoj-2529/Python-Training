@@ -1,0 +1,10 @@
+lists=[11,0,2,1,3,0,33,22,11,44,22]
+print(lists)
+print("Length of list: ",len(lists))
+print("Max value in list",max(lists))
+print("Sum:",sum(lists))
+print("Sorted list",sorted(lists))
+print("Avg:",sum(lists)/len(lists))
+print(lists[0:-8])
+print(lists[::5])
+print(lists[:])

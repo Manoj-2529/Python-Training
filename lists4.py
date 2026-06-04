@@ -1,0 +1,10 @@
+list=['Python','C++','C','Ruby']
+print("The original list is :",list)
+list.insert(0,'SQL')
+print(list)
+list.pop()
+print(list)
+list.remove("C++")
+print(list)
+list.reverse()
+print("Reversed List",list)
